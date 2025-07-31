@@ -28,7 +28,7 @@ First, you need to do some preparations:
 
 ~~~
 |-- data
-|-- youedataset
+|-- yourdataset
 |   |-- train
 |   |   |class0
 |   |   |   |0_ *.jpg/tif/png
