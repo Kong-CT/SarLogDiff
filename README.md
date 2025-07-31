@@ -96,8 +96,9 @@ python evaluate/IS_SCNN.py
 ## Results
 
 <div align="center">
- <img src="/sy.png" alt="Visualization of the generated samples on Orchard data. The first row
-shows real samples, randomly selected from the test set for each class. "/>
+ <img src="/Visualization.png" alt=" Visualization of the generated samples on SythRESI data. The first
+row shows real samples, randomly selected from the test set for each class.
+From left to right: bridge, desert, forest, freeway, and lake. "/>
 </div>
 
 
