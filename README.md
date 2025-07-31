@@ -96,7 +96,7 @@ python evaluate/IS_SCNN.py
 ## Results
 
 <div align="center">
- <img src="/Visualization.png" alt="Visualization of the generated samples on Orchard data. The first row
+ <img src="/sy.png" alt="Visualization of the generated samples on Orchard data. The first row
 shows real samples, randomly selected from the test set for each class. "/>
 </div>
 
