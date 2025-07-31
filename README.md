@@ -40,7 +40,7 @@ First, you need to do some preparations:
 |   |   |   |0_ *.jpg/tif/png
 ~~~
 
-2. Prepare the Directory to save your models and samples:
+2. Prepare the directory to save your models and samples:
 
 ```
 mkdir sample
