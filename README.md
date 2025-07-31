@@ -1,4 +1,4 @@
-# <div align="center">  LogSaDiff: Logarithm-Domain and Structure-Aware Conditional Diffusion Model for SAR Image Generation </div>
+# <div align="center">  LogSarDiff: Logarithm-Domain and Structure-Aware Conditional Diffusion Model for SAR Image Generation </div>
 
 ## Abstract
 
