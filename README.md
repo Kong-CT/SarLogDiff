@@ -103,10 +103,3 @@ From left to right: bridge, desert, forest, freeway, and lake. "/>
 
 
 
-## Pubulication
-
-If you use this software in your research, please cite our publication:
-
-```
-
-```
