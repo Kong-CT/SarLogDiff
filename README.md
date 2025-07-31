@@ -24,16 +24,7 @@ conda env create -f environment.yml
 
 First, you need to do some preparations:
 
-1. Prepare the dataset. You can download the cifar10 from [here](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) and put it in the `./data` folder, following the steps below:
-
-```
-mkdir data
-cd data
-wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
-tar -zxvf cifar-10-python.tar.gz
-```
-
-But if you want to use your own dataset, the folder structure should resemble this:
+1. Prepare the dataset. If you want to use your own dataset, the folder structure should resemble this:
 
 ~~~
 |-- data
