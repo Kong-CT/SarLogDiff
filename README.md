@@ -7,7 +7,7 @@ Synthetic aperture radar (SAR) image generation using generative models is an ef
 </div>
 
 <div align="center">
- <img src="/framework.png" alt="Framework of the LogSaDiff. To explicitly adapt to the intrinsic characteristics of SAR images, LogSaDiff is defined in the logarithm domain, and
+ <img src="/Framework.png" alt="Framework of the LogSaDiff. To explicitly adapt to the intrinsic characteristics of SAR images, LogSaDiff is defined in the logarithm domain, and
 its generation process is constrained by the structure-aware guidance to preserve high-level semantics from the reference image and category label."/>
 </div>
 </div>
